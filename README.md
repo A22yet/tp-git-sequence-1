@@ -1,2 +1,3 @@
 #Bienvenue
-Programme C++ qui affiche "Bienvenue"
+Programme C++ qui affiche "Bienvenue le monde !" en utilisant la fontion afficherBienvenue().
+
