@@ -1,5 +1,5 @@
 # Bienvenue
-Programme C++ qui affiche "bienvenue le monde !"
+Programme C++ qui affiche "bienvenue le monde !"en utilisant la fonction `afficher Bienvenue()`
 ##Exemple d'exécution
 ```sh
 $ make rebuild
