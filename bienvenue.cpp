@@ -2,6 +2,6 @@
 #include "fonction-bienvenue.h"
 int main()
 {
-	afficherBienvenue();
+	afficherBienvenue("Bienvenue le monde !");
 	return 0;
 }

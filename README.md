@@ -3,6 +3,7 @@ Programme C++ qui affiche "bienvenue le monde !"en utilisant la fonction `affich
 ## Correctif 
 Documentation mise à jour.
 ##Exemple d'exécution
+La focntion afficherBienvenue() accepte maintenant un second paramètre nbAffichage permettant permettant d'afficher le message plusieurs fois.
 ```sh
 $ make rebuild
 Fabrication du programme : bienvenue
