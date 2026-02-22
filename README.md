@@ -13,7 +13,8 @@ g++ -c -Wall -std=c++11 fonction-bienvenue.cpp
 g++ -o bienvenue bienvenue.o fonction-bienvenue.o
 $./bienvenue
 Bienvenue le monde!
-
+## Utilisation
+./bienvenue ["bonjou!] [nbAffichage]
 ```
 le contenu d'un fichier source C++ :
 ```cpp
