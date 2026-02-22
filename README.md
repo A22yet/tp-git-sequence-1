@@ -1,5 +1,7 @@
 # Bienvenue
 Programme C++ qui affiche "bienvenue le monde !"en utilisant la fonction `afficher Bienvenue()`
+## Correctif 
+Documentation mise à jour.
 ##Exemple d'exécution
 ```sh
 $ make rebuild
@@ -10,6 +12,7 @@ g++ -c -Wall -std=c++11 fonction-bienvenue.cpp
 g++ -o bienvenue bienvenue.o fonction-bienvenue.o
 $./bienvenue
 Bienvenue le monde!
+
 ```
 le contenu d'un fichier source C++ :
 ```cpp
